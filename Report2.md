@@ -9,11 +9,11 @@
 ## В результате тестирования выявлены следующие дефекты: ##
 
 #### Из 5 представленных валидных ключей выявлено 2 *невалидных* ключа: ####
-[Bag-report-task2](https://github.com/Alex-isk/HW-J-2/issues/1)
+[BR2-S3/P2-Некорректный результат ПО "KeyValidator" при введении валидных и невалидных ключей](https://github.com/Alex-isk/HW-J-2/issues/1)
 
 #### Из 5 представленных невалидных ключей выявлен 1 валидный ключ: ####
 
-[Bag-report-task2](https://github.com/Alex-isk/HW-J-2/issues/1)
+[BR2-S3/P2-Некорректный результат ПО "KeyValidator" при введении валидных и невалидных ключей](https://github.com/Alex-isk/HW-J-2/issues/1)
 
 
 ## Описание процесса тестирования ##
@@ -55,7 +55,7 @@ Result for c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180: OK
 
 Не соответствует ОР
 
-[Bag-report-task2](https://github.com/Alex-isk/HW-J-2/issues/1)
+[BR2-S3/P2-Некорректный результат ПО "KeyValidator" при введении валидных и невалидных ключей](https://github.com/Alex-isk/HW-J-2/issues/1)
 
 3. ### Шаг ### 
 
@@ -80,7 +80,7 @@ Result for c19a8cf9-5c3a-37c5-b7f3-d16d38a0c180: *FAIL*
 
 Не соответствует ОР
 
-[Bag-report-task2](https://github.com/Alex-isk/HW-J-2/issues/1)
+[BR2-S3/P2-Некорректный результат ПО "KeyValidator" при введении валидных и невалидных ключей](https://github.com/Alex-isk/HW-J-2/issues/1)
 
 ### Тестирование производилось в следующем окружении: ###
 
